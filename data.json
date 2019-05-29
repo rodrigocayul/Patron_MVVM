@@ -1,0 +1,26 @@
+{
+  "data" : {
+    "listado" : [ {
+      "id" : "1455",
+      "nombre" : "Gran Oportunidad de arriendo",
+      "precio" : 14555
+    }, 
+	{
+      "id" : 1500,
+      "nombre" : "Proyecto Don Tritón",
+      "precio" : "1455.2"
+    }, 
+	{
+      "nombre" : "Descuentos OFF"
+    }, 
+	{
+      "nombre" : "Valor USD:4545"
+    }, 
+	{
+      "nombre" : "Nuevo Empleo"
+    }, 
+	{
+      "nombre" : "Un nuevo Alumno..."
+    } ]
+  }
+}
